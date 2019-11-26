@@ -23,7 +23,7 @@ import { DemoComponent } from './demo/demo.component';
     HomeComponent,
     ProductsComponent,
     ContactComponent,
-    DemoComponent
+    DemoComponent,
   ],
   imports: [
     BrowserModule,
